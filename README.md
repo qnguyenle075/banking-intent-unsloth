@@ -16,7 +16,7 @@ Model được fine-tune bằng phương pháp **QLoRA** (Quantized LoRA) thông
 
 ## Video Demo
 
-> **[📹 Xem video demo trên Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+> **[📹 Xem video demo trên Google Drive](https://drive.google.com/file/d/1fGPF8r25jNQTPzGxZJq9oBbZmQcg_1lt/view?usp=sharing)**
 
 ## Cấu trúc thư mục
 
@@ -45,7 +45,7 @@ banking-intent-unsloth/
 ### Cách 1: Google Colab (khuyến nghị)
 
 1. Mở notebook trên Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PE_yEbayV2qpjfm7bDWe-1k70KzH-y14?usp=sharing)
 
 2. Chọn Runtime → Change runtime type → **T4 GPU**
 3. Chạy lần lượt từng cell, notebook sẽ tự cài đặt thư viện, train và đánh giá model
@@ -55,7 +55,7 @@ banking-intent-unsloth/
 #### Cài đặt
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/banking-intent-unsloth.git
+git clone https://github.com/qnguyenle075/banking-intent-unsloth.git
 cd banking-intent-unsloth
 pip install -r requirements.txt
 ```
